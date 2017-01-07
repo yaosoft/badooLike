@@ -1,2 +1,2 @@
 <?php
-printf('Badoo Like!');
+printf('Badoo Like sugestion02!');
